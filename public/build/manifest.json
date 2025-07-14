@@ -1,0 +1,89 @@
+{
+  "node_modules/photoswipe/dist/photoswipe.esm.js": {
+    "file": "assets/photoswipe.esm-GXRgw7eJ.js",
+    "name": "photoswipe.esm",
+    "src": "node_modules/photoswipe/dist/photoswipe.esm.js",
+    "isDynamicEntry": true
+  },
+  "public/fonts/nugros/eot/Nugros-Black.eot": {
+    "file": "assets/Nugros-Black-C4Klxmpi.eot",
+    "src": "public/fonts/nugros/eot/Nugros-Black.eot"
+  },
+  "public/fonts/nugros/eot/Nugros-Bold.eot": {
+    "file": "assets/Nugros-Bold-NYuR2kb6.eot",
+    "src": "public/fonts/nugros/eot/Nugros-Bold.eot"
+  },
+  "public/fonts/nugros/eot/Nugros-Medium.eot": {
+    "file": "assets/Nugros-Medium-CWizneaM.eot",
+    "src": "public/fonts/nugros/eot/Nugros-Medium.eot"
+  },
+  "public/fonts/nugros/eot/Nugros-Regular.eot": {
+    "file": "assets/Nugros-Regular-CWYdCg1y.eot",
+    "src": "public/fonts/nugros/eot/Nugros-Regular.eot"
+  },
+  "public/fonts/nugros/ttf/Nugros-Black.ttf": {
+    "file": "assets/Nugros-Black-7TWlFpOX.ttf",
+    "src": "public/fonts/nugros/ttf/Nugros-Black.ttf"
+  },
+  "public/fonts/nugros/ttf/Nugros-Bold.ttf": {
+    "file": "assets/Nugros-Bold-bByvOaet.ttf",
+    "src": "public/fonts/nugros/ttf/Nugros-Bold.ttf"
+  },
+  "public/fonts/nugros/ttf/Nugros-Medium.ttf": {
+    "file": "assets/Nugros-Medium-BrwXTW6r.ttf",
+    "src": "public/fonts/nugros/ttf/Nugros-Medium.ttf"
+  },
+  "public/fonts/nugros/ttf/Nugros-Regular.ttf": {
+    "file": "assets/Nugros-Regular-CwVBPjpn.ttf",
+    "src": "public/fonts/nugros/ttf/Nugros-Regular.ttf"
+  },
+  "public/fonts/nugros/woff/Nugros-Black.woff": {
+    "file": "assets/Nugros-Black-B5Bsuz-b.woff",
+    "src": "public/fonts/nugros/woff/Nugros-Black.woff"
+  },
+  "public/fonts/nugros/woff/Nugros-Bold.woff": {
+    "file": "assets/Nugros-Bold-DLMwdTqg.woff",
+    "src": "public/fonts/nugros/woff/Nugros-Bold.woff"
+  },
+  "public/fonts/nugros/woff/Nugros-Medium.woff": {
+    "file": "assets/Nugros-Medium-B8mj8Noj.woff",
+    "src": "public/fonts/nugros/woff/Nugros-Medium.woff"
+  },
+  "public/fonts/nugros/woff/Nugros-Regular.woff": {
+    "file": "assets/Nugros-Regular-BknHwgZ8.woff",
+    "src": "public/fonts/nugros/woff/Nugros-Regular.woff"
+  },
+  "public/fonts/nugros/woff2/Nugros-Black.woff2": {
+    "file": "assets/Nugros-Black-C0gMx3Ho.woff2",
+    "src": "public/fonts/nugros/woff2/Nugros-Black.woff2"
+  },
+  "public/fonts/nugros/woff2/Nugros-Bold.woff2": {
+    "file": "assets/Nugros-Bold-rJWvt4M7.woff2",
+    "src": "public/fonts/nugros/woff2/Nugros-Bold.woff2"
+  },
+  "public/fonts/nugros/woff2/Nugros-Medium.woff2": {
+    "file": "assets/Nugros-Medium-BAvEPWYq.woff2",
+    "src": "public/fonts/nugros/woff2/Nugros-Medium.woff2"
+  },
+  "public/fonts/nugros/woff2/Nugros-Regular.woff2": {
+    "file": "assets/Nugros-Regular-DrcQt_sj.woff2",
+    "src": "public/fonts/nugros/woff2/Nugros-Regular.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-8DpKgnhY.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DsWhJ4WM.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/photoswipe/dist/photoswipe.esm.js"
+    ],
+    "css": [
+      "assets/app-zdbZe_EH.css"
+    ]
+  }
+}

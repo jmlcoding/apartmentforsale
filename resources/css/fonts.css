@@ -1,0 +1,42 @@
+@layer base {
+    @font-face {
+        font-family: 'Nugros-Regular';
+        font-style: normal;
+        font-display: swap;
+        src: url('/public/fonts/nugros/woff2/Nugros-Regular.woff2') format('woff2'),
+        url('/public/fonts/nugros/eot/Nugros-Regular.eot'), /* IE9 Compat Modes */
+        url('/public/fonts/nugros/eot/Nugros-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+        url('/public/fonts/nugros/woff/Nugros-Regular.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('/public/fonts/nugros/ttf/Nugros-Regular.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'Nugros-Medium';
+        font-style: normal;
+        font-display: swap;
+        src: url('/public/fonts/nugros/woff2/Nugros-Medium.woff2') format('woff2'),
+        url('/public/fonts/nugros/eot/Nugros-Medium.eot'), /* IE9 Compat Modes */
+        url('/public/fonts/nugros/eot/Nugros-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+        url('/public/fonts/nugros/woff/Nugros-Medium.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('/public/fonts/nugros/ttf/Nugros-Medium.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'Nugros-Bold';
+        font-style: normal;
+        font-display: swap;
+        src: url('/public/fonts/nugros/woff2/Nugros-Bold.woff2') format('woff2'),
+        url('/public/fonts/nugros/eot/Nugros-Bold.eot'), /* IE9 Compat Modes */
+        url('/public/fonts/nugros/eot/Nugros-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+        url('/public/fonts/nugros/woff/Nugros-Bold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('/public/fonts/nugros/ttf/Nugros-Bold.ttf') format('truetype');
+    }
+    @font-face {
+        font-family: 'Nugros-Black';
+        font-style: normal;
+        font-display: swap;
+        src: url('/public/fonts/nugros/woff2/Nugros-Black.woff2') format('woff2'),
+        url('/public/fonts/nugros/eot/Nugros-Black.eot'), /* IE9 Compat Modes */
+        url('/public/fonts/nugros/eot/Nugros-Black.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+        url('/public/fonts/nugros/woff/Nugros-Black.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('/public/fonts/nugros/ttf/Nugros-Black.ttf') format('truetype');
+    }
+}

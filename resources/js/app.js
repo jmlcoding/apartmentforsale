@@ -1,0 +1,5 @@
+import './libraries/mobilemenu.js'
+import './libraries/intelphone.js'
+import './libraries/lazyload.js'
+import './libraries/swiper.js'
+import './libraries/photoswipe.js'
